@@ -5,10 +5,10 @@
 - 📫 Como chegar a mim:
   - Email: samuelaquinodev@gmail.com / samuelaquinoads@gmail.com
   - Linkedin: https://www.linkedin.com/in/samuel-borges-de-aquino-242489213/
-- 😄 Pronomes: Ele/Dele.
+- 👻 Pronomes: Ele/Dele.
 
 <div style="display: inline_block"><br>
-  <h2> Linguagens que eu domino ou estudo:</h2>
+  <h2> 📚 Linguagens que eu domino ou estudo:</h2>
 </div>
 
 <div style="display: inline_block"><br>
