@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu perfil! 👋
+### <h1> 👋 Olá! Bem-vindo ao meu perfil! </h1>
 
 - 👨‍💻 Eu estou atualmente estudando: Javascript, Flutter e React.
 - 🖥️ Eu estou procurando por: Empregos na área FrontEnd, principalmente na área Mobile.
