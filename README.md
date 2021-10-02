@@ -21,10 +21,10 @@
     <h2> HTML5 </h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <h2> CSS3 </h2>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
-                                                            
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+                              <img align="right" alt="ProfilePic" height="150" style="border-radius:50px;" src=https://media.discordapp.net/attachments/483775217143906317/893660927503794176/Webp.net-gifmaker.gif?width=559&height=559>                              
 </div>
                                                             
-                                                            <img align="right" alt="ProfilePic" height="150" style="border-radius:50px;" src=https://media.discordapp.net/attachments/483775217143906317/893660927503794176/Webp.net-gifmaker.gif?width=559&height=559>
+                                                            
 
 ![image](https://user-images.githubusercontent.com/88602593/135698953-2cc6a295-80a6-478c-b911-231e9dc10122.png)
