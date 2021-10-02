@@ -1,4 +1,4 @@
-### 'Olá! Bem-vindo ao meu perfil! 👋
+### Olá! Bem-vindo ao meu perfil! 👋
 
 - 👨‍💻 Eu estou atualmente estudando: Javascript, Flutter e React.
 - 🖥️ Eu estou procurando por: Empregos na área FrontEnd, principalmente na área Mobile.
@@ -8,7 +8,7 @@
 - 😄 Pronomes: Ele/Dele.
 
 <div style="display: inline_block"><br>
-  <h1> Linguagens que eu domino ou estudo:</h1>
+  <h2> Linguagens que eu domino ou estudo:</h2>
 </div>
 
 <div style="display: inline_block"><br>
