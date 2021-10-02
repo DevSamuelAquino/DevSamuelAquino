@@ -21,9 +21,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="ProfilePic" height="460" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893660927503794176/Webp.net-gifmaker.gif?width=559&height=559">                   
+  <img align="right" alt="ProfilePic" height="450" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893660927503794176/Webp.net-gifmaker.gif?width=559&height=559">                   
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="ProfilePic" height="460" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
+  <img align="right" alt="ProfilePic" height="450" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
 </div>
