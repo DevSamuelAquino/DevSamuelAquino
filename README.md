@@ -1,4 +1,4 @@
-### print('Olá! Bem-vindo ao meu perfil! 👋')
+### 'Olá! Bem-vindo ao meu perfil! 👋
 
 - 🌱 Eu estou atualmente estudando: Javascript, Flutter e React.
 - 🤔 Eu estou procurando por: Empregos na área FrontEnd, principalmente na área Mobile.
