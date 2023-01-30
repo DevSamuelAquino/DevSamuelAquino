@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="70" width="80" src="https://icons8.com/icon/121103/visual-basic">
+  <img align="center" alt="Js" height="70" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
