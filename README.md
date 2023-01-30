@@ -1,7 +1,7 @@
 ### <h2> 👋 Olá! Bem-vindo ao meu perfil! </h2>
 
-- 👨‍💻 Eu estou atualmente estudando: Javascript, Flutter e React.
-- 🖥️ Eu estou procurando por: Empregos na área FrontEnd, principalmente na área Mobile.
+- 👨‍💻 Eu estou atualmente estudando: Angular, Visual Basic e Javascript.
+- 🖥️ Eu estou procurando por: Aprimorar meus conhecimentos.
 - 📫 Como chegar a mim:
   - Email: samuelaquinodev@gmail.com / samuelaquinoads@gmail.com
   - Linkedin: https://www.linkedin.com/in/samuel-borges-de-aquino-242489213/
@@ -12,9 +12,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="70" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+  <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   </br>
 </div>
 
